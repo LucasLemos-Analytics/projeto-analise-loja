@@ -14,6 +14,10 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 /modelagem → modelo relacional do banco
 /scripts → scripts SQL  
 
+## 📌 Modelagem do Banco
+
+![Modelo Relacional](modelagem/modelo_relacional_loja.png)
+
 ## 📊 Consultas realizadas
 
 - faturamento total
@@ -21,9 +25,6 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 - clientes que mais compraram
 - pedidos por mês
 
-## 📌 Modelagem do Banco
-
-![Modelo Relacional](modelagem/modelo_relacional_loja.png)
 
 ## 🚀 Próximos passos
 
