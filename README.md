@@ -16,7 +16,7 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 
 ## 📌 Modelagem do Banco
 
-![Modelo Relacional](modelagem/modelo_relacional_loja.png)
+<img src="modelagem/modelo_relacional_loja.png" width="700">
 
 ## 📊 Consultas realizadas
 
