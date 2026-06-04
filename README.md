@@ -30,6 +30,8 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 
 ## 📈 Dashboard em Excel
 
+<img src="excel/dashboard.png" width="700">
+
 O projeto inclui um dashboard desenvolvido no Excel utilizando Power Query, Tabelas Dinâmicas e Gráficos Dinâmicos.
 
 - Principais indicadores
@@ -43,9 +45,6 @@ Principais análises
 - Top 10 Clientes por Faturamento
 - Evolução do Faturamento Mensal
 
-## 📌 Gráficos 
-
-<img src="excel/dashboard.png" width="700">
 
 ## 🚀 Próximo passo
 
