@@ -7,12 +7,15 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 - MySQL
 - SQL
 - MySQL Workbench
+- Excel
+- Power Query
 - Git e GitHub
 
 ## 📂 Estrutura do projeto
 
 /modelagem → modelo relacional do banco
-/scripts → scripts SQL  
+/scripts → scripts SQL /excel → dashboard e análises em Excel
+
 
 ## 📌 Modelagem do Banco
 
@@ -25,8 +28,25 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 - clientes que mais compraram
 - pedidos por mês
 
+## 📈 Dashboard em Excel
 
-## 🚀 Próximos passos
+O projeto inclui um dashboard desenvolvido no Excel utilizando Power Query, Tabelas Dinâmicas e Gráficos Dinâmicos.
 
-- integração com Excel
+- Principais indicadores
+- Faturamento Total
+- Produto Destaque
+- Melhor Mês de Vendas
+
+Principais análises
+
+- Faturamento por Produto
+- Top 10 Clientes por Faturamento
+- Evolução do Faturamento Mensal
+
+## 📌 Gráficos 
+
+<img src="excel/dashboard.png" width="700">
+
+## 🚀 Próximo passo
+
 - dashboards no Power BI
