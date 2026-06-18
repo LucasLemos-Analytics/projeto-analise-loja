@@ -9,12 +9,13 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 - MySQL Workbench
 - Excel
 - Power Query
+- Power Bi
 - Git e GitHub
 
 ## 📂 Estrutura do projeto
 
-/modelagem → modelo relacional do banco
-/scripts → scripts SQL /excel → dashboard e análises em Excel
+/modelagem → modelo relacional do banco de dados /scripts → consultas SQL /
+excel → dashboard e análises em Excel /powerbi → dashboard desenvolvido no Power BI
 
 
 ## 📌 Modelagem do Banco
@@ -34,7 +35,8 @@ Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados e
 
 O projeto inclui um dashboard desenvolvido no Excel utilizando Power Query, Tabelas Dinâmicas e Gráficos Dinâmicos.
 
-- Principais indicadores
+Principais indicadores
+
 - Faturamento Total
 - Produto Destaque
 - Melhor Mês de Vendas
@@ -46,6 +48,37 @@ Principais análises
 - Evolução do Faturamento Mensal
 
 
-## 🚀 Próximo passo
+## 📊 Dashboard em Power BI
 
-- dashboards no Power BI
+<img src="powerbi/dashboard_powerbi.png" width="700">
+
+Dashboard interativo desenvolvido no Power BI para análise de desempenho de vendas.
+
+Indicadores
+
+- Faturamento Total
+- Produto Destaque
+- Melhor Mês de Vendas
+  
+Análises
+
+- Faturamento por Produto
+- Top Clientes por Faturamento
+- Evolução do Faturamento Mensal
+
+## 🚀 Competências Demonstradas
+
+- Modelagem de Banco de Dados
+- Consultas SQL
+- Análise Exploratória de Dados
+- Tratamento de Dados com Power Query
+- Criação de Dashboards em Excel
+- Criação de Dashboards em Power BI
+- Versionamento com Git e GitHub
+
+
+👨‍💻 Autor: Lucas Lemos Silva
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucasanalytics/
+
+🔗 GitHub: https://github.com/LucasLemos-Analytics
