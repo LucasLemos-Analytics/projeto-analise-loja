@@ -1,4 +1,4 @@
-# 📊 Projeto de Análise de Dados - Loja
+# 📊 Projeto de Análise de Dados
 
 Projeto desenvolvido para praticar modelagem de dados, SQL e análise de dados em um cenário de loja.
 
