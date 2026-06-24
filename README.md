@@ -79,6 +79,10 @@ Análises
 
 👨‍💻 Autor: Lucas Lemos Silva
 
+🔗 Site Portfólio: https://lucasanalytics.site/
+
 🔗 LinkedIn: https://www.linkedin.com/in/lucasanalytics/
 
 🔗 GitHub: https://github.com/LucasLemos-Analytics
+
+
